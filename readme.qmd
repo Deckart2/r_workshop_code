@@ -1,6 +1,6 @@
 ---
 title: "README"
-format: html
+format: md
 editor: visual
 ---
 
