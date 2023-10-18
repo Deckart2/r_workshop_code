@@ -1,5 +1,5 @@
 # Loading necessary libraries
-library(ggplot2)
+library(tidyverse)
 
 # Fetching data
 data <- airquality
